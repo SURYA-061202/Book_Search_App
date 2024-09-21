@@ -9,8 +9,21 @@ const Header = () => {
         <header className='header'>
             <Navbar />
             <div className='header-content flex flex-c text-center text-white'>
-                <h2 className='header-title text-capitalize'>find your book of choice.</h2><br />
-                <p className='header-text fs-18 fw-3'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam beatae sapiente quibusdam consequatur perspiciatis facere laboriosam non nesciunt at id repudiandae, modi iste? Eligendi, rerum!</p>
+                <h2 className='header-title text-capitalize'>find your books!!</h2><br />
+                <p className='header-text fs-18 fw-3'>Instruments that record, analyse
+                                                      Summarize, organize, debate and
+                                                      Explain informations that are
+                                                      Illustrated, non illustrated
+                                                      Hardbone paperback
+                                                      jacketed, non jacketed
+                                                      With forward introduction
+                                                      Table of contents, index
+                                                      That are intended for the
+                                                      Enlightment, understanding,
+                                                      Enrichment, enhancement and
+                                                      The education of the human brain
+                                                      For the sensory route of vision
+                                                      SOMETIMES TOUCH!</p>
                 <SearchForm />
             </div>
         </header>

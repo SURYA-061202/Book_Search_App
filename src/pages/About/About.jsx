@@ -16,8 +16,23 @@ const About = () => {
           </div>
           <div className='about-text'>
             <h2 className='about-title fs-26 ls-1'>About BookHub</h2>
-            <p className='fs-17'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus dignissimos consequuntur vero commodi provident maiores, iusto atque corrupti voluptate vel sequi consectetur unde aliquam corporis saepe animi non, tempora reiciendis molestias sed laudantium dolores. Assumenda aperiam fuga quo voluptate commodi ullam aliquam expedita voluptas delectus.</p>
-            <p className='fs-17'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor, dicta, possimus inventore eveniet atque voluptatibus repellendus aspernatur illo aliquam dignissimos illum. Commodi, porro omnis dolore amet neque modi quas eum!</p>
+            <p className='fs-17'>The purpose of this app is make ease of searching books in the internet. You can find your amazing books here.</p><br /><br /><br />
+            <p className='fs-17'>If you dont know the definition for book, here its definition!!</p><br /><br /><br />
+            <p className='fs-17'>Instruments that record, analyse
+                                Summarize, organize, debate and
+                                Explain informations that are
+                                Illustrated, non illustrated
+                                Hardbone paperback
+                                jacketed, non jacketed
+                                With forward introduction
+                                Table of contents, index
+                                That are intended for the
+                                Enlightment, understanding,
+                                Enrichment, enhancement and
+                                The education of the human brain
+                                For the sensory route of vision
+                                SOMETIMES TOUCH</p>
+
           </div>
         </div>
       </div>
